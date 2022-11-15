@@ -101,7 +101,7 @@ for(var i=0;i<allDocuments.length;i++){
       sheet.appendRow(docArray); 
     }
   ```
-Finally save the project and run the script by selecting the function **getFirestoreData()* function in the script editor.
+Finally save the project and run the script by selecting the function **getFirestoreData()** function in the script editor.
 
 ## References
 
